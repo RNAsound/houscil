@@ -1,0 +1,101 @@
+#N struct line-label float x float y float z symbol label;
+#N canvas 277 133 864 641 10;
+#N canvas 0 22 450 300 (subpatch) 0;
+#X array scope 1000 float 1;
+#A 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0;
+#X coords 0 1 999 -1 200 140 1;
+#X restore 184 267 graph;
+#X obj 68 334 tabwrite~ scope;
+#X obj 68 309 metro 200;
+#X obj 68 288 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 1 1
+;
+#X obj 15 153 sig~;
+#X obj 13 379 dac~;
+#X obj 11 273 *~ 0.5;
+#X obj 14 233 *~;
+#X obj 203 82 vline~;
+#X obj 200 210 *~;
+#X obj 12 28 t b b;
+#X obj 11 9 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X msg 199 49 1 0 \, 0 1000;
+#X obj 71 415 spectrum~;
+#X obj 15 111 mtof;
+#X floatatom 15 132 5 0 0 0 - - -;
+#X floatatom 14 89 5 0 0 0 - - -;
+#X obj 14 201 houscil~;
+#X obj 13 70 + 60;
+#X obj 12 49 random 20;
+#X text 49 78 Kept root note in range MIDI (60-80) for qualitative
+purposes, f 18;
+#X floatatom 62 177 5 1 100 0 - - -;
+#X text 100 169 Harmonic Amount (1-100%), f 10;
+#X obj 201 7 tgl 15 0 empty empty empty 0 -6 0 8 -262144 -1 -1 0 1
+;
+#X obj 201 28 metro 500;
+#X text 318 19 THE HOUSCILATOR by Aren Akian (7th chord signal generator)
+;
+#X text 333 95 inlet 1 - frequency of root note;
+#X obj 67 267 loadbang 1;
+#X text 390 131 100 = all harmonics present;
+#X text 402 147 1 = only root note;
+#X text 333 112 inlet 2* - harmonic amount;
+#X text 394 170 * this inlet has an internal limit from 1-100 to prevent
+NaN \, feel free to use any atom box to set its value, f 31;
+#X obj 65 151 cnv 15 50 15 empty empty empty 0 5 0 11 -204800 -66577
+0;
+#X text 65 150 try me!;
+#X connect 2 0 1 0;
+#X connect 3 0 2 0;
+#X connect 4 0 17 0;
+#X connect 6 0 1 0;
+#X connect 6 0 13 0;
+#X connect 6 0 5 0;
+#X connect 6 0 5 1;
+#X connect 7 0 6 0;
+#X connect 8 0 9 0;
+#X connect 8 0 9 1;
+#X connect 9 0 7 1;
+#X connect 10 0 19 0;
+#X connect 10 1 12 0;
+#X connect 11 0 10 0;
+#X connect 12 0 8 0;
+#X connect 14 0 15 0;
+#X connect 15 0 4 0;
+#X connect 16 0 14 0;
+#X connect 17 0 7 0;
+#X connect 18 0 16 0;
+#X connect 19 0 18 0;
+#X connect 21 0 17 1;
+#X connect 23 0 24 0;
+#X connect 24 0 12 0;
+#X connect 27 0 3 0;
